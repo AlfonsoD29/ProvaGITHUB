@@ -7,6 +7,7 @@
 <body>
 <h1><%= "Hello World!" %>
 </h1>
+CIAO
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <h1>Alfonso beato te!</h1>
